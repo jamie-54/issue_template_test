@@ -22,9 +22,3 @@ body:
     placeholder: Add code line number.
   validations:
     required: false
-- type: textarea
-  attributes:
-    label: Additional context
-    placeholder: Add any other context about the problem here.
-  validations:
-    required: false
