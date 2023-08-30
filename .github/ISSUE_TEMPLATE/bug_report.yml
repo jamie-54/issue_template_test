@@ -34,7 +34,7 @@ body:
 - type: textarea
   attributes:
     label: Minimum reproducible example
-    placeholder: Copy and paste the code from the editor that you used in between the back-ticks.
+    description: Copy and paste the code from the editor that you used in between the back-ticks.
     value: |
       ```
 
