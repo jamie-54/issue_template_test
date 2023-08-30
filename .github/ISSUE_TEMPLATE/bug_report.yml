@@ -24,7 +24,7 @@ body:
 - type: textarea
   attributes:
     label: To Reproduce
-    placeholder:
+    placeholder: |
       Steps to reproduce the behaviour
       1. Step 1
       2. Step 2.
