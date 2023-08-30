@@ -3,6 +3,7 @@ description: Report issues in our documentation
 labels: 
 - Issue-Docs
 - Needs-Triage 
+- Documentation
 body:
 - type: textarea
   attributes: 
